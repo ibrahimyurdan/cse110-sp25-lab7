@@ -2,7 +2,8 @@
 
 ## Team Members
 - Ibrahim Yurdan
-
+- Emily Nguyen
+  
 ## Check Your Understanding Questions
 
 ### Question 1
